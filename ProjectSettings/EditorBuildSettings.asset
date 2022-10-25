@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3d92656e2d92b70439c8112d73c5d5cb
+  - enabled: 1
+    path: Assets/Scenes/PathfindingScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/WaypointScene.unity
+    guid: 78967595cd2b6cf4db2d7421ad5555f4
+  - enabled: 1
+    path: Assets/Scenes/PlayerFollowScene.unity
+    guid: 7cca488dfb2bcde4ab21d05183817981
+  m_configObjects: {}
